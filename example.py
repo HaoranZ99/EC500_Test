@@ -16,7 +16,7 @@ def numpy_add(a, b):
   return np.add(a, b)
 
 def numpy_sub(a, b):
-  return np.substract(a, b)
+  return np.subtract(a, b)
 
 '''
 =====================================
